@@ -1,0 +1,9 @@
+{
+    "html.format.contentUnformatted": "",
+    "bladeFormatter.format.indentInnerHtml": true,
+    "bladeFormatter.format.sortHtmlAttributes": "alphabetical",
+    "html.format.wrapAttributes": "force-aligned",
+    "html.format.unformatted": "",
+    "html.format.indentInnerHtml": false,
+    "html.format.indentHandlebars": false
+}
