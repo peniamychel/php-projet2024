@@ -4,10 +4,10 @@
 // $usuario = "root";
 // $contrasenia = "";
 
-$servidor ="bmmgi9g9t8xkbjnwaifm-mysql.services.clever-cloud.com";
-$basedatos = "bmmgi9g9t8xkbjnwaifm";
-$usuario = "uq3od9bg3tpktkqt";
-$contrasenia = "lTUml9YowyvMiFlQi4Mj";
+$servidor ="bosclmn3unxlm1q9trfm-mysql.services.clever-cloud.com";
+$basedatos = "bosclmn3unxlm1q9trfm";
+$usuario = "uokbduagfuzrawxi";
+$contrasenia = "3jn4NI5hnWZuRcHhk9sH";
 
 try {
     $conexion = new PDO("mysql:host=$servidor;dbname=$basedatos", $usuario, $contrasenia);

@@ -4,7 +4,7 @@ $icon = (isset($_POST['icono'])) ? $_POST['icono'] : "";
 $titulo = (isset($_POST['titulo'])) ? $_POST['titulo'] : "";
 $description = (isset($_POST['descripcion'])) ? $_POST['descripcion'] : "";
 $validar = $icon =="" && $titulo =="" && $description ="";
-if ($_POST && $validar) {
+if ($_POST) {
     // print_r($_POST);
 
     //conectar a la base de datos
